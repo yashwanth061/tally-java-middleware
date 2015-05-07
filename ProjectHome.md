@@ -1,0 +1,2 @@
+This is a middle-ware application whose soul purpose is to be integrated with Tally, an accounting software popularly used in the Indian sub-continent.
+> Currently there exists the dynamic integration of Tally through certain .dll files which are being commercially sold and they are for the .net platform only, and there are no middle-wares to integrate Tally with Java.  So this project will be a solution to this problem.
